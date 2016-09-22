@@ -8,5 +8,5 @@ Pod::Spec.new do |pod|
   pod.requires_arc = false
   pod.source_files = "*.{h,m}"
   pod.license      = "MIT"
-  pod.source       = { :git => "https://github.com/koner/MSLabel.git", :commit => "d3a03e5e1d5b46a1aa60065025aca45afb89996c"}
+  pod.source       = { :git => "https://github.com/koner/MSLabel.git", :commit => "17f97cbdb5f2bebf7eb22d86ceca02b460cda8f0"}
 end
